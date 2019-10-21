@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author swelcker
+ *
+ */
+package cspsimilarity;
